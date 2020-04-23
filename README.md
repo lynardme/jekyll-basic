@@ -1,3 +1,3 @@
 # jekyll-basic
 
-![](/images/site.png)
+![](/assets/images/site.png)
